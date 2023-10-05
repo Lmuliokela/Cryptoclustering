@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this challenge, the requirent was to use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+In this challenge, the requirement was to use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 ---
 
